@@ -149,13 +149,13 @@ article img{
     font-size: 18px;
 }
 
-.newsletter .container{
+.newsletter{
     background-color: #48BB78;
     color: white;
     padding-left: 30%;
     padding-right: 30%;
     padding-top: 2%;
-    padding-bottom: 5%;
+    padding-bottom: 3%;;
 }
 
 .newsletter h3{
@@ -171,7 +171,7 @@ input{
     padding: 20px;
     border-radius: 5px;
     border: hidden;
-    width: 150%
+    width: 150%;
 }
 
 button{
@@ -181,6 +181,10 @@ button{
     padding: 20px;
     border-radius: 5px;
     border: hidden;
+}
+
+.message{
+    padding-top: 20px;
 }
 
 footer{
